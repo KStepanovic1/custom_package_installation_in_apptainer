@@ -1,0 +1,9 @@
+*.yml
+*.def
+*.sif
+.idea/
+build/
+dist/
+util.egg-info/
+utilminimini.egg-info/
+__pycache__/
