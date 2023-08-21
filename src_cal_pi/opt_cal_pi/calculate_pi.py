@@ -7,7 +7,7 @@ from math import pi as PI
 from numpy import array
 
 # it does not work in apptainer
-from src_cal_pi.util.util_min.utils import Gamma, H, Delta
+from util_min.utils import Gamma, H, Delta
 
 
 def comp_pi(n, myrank=0, nprocs=1):
