@@ -6,4 +6,5 @@ build/
 dist/
 util.egg-info/
 utilminimini.egg-info/
+util_min.egg-info/
 __pycache__/

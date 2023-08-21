@@ -1,0 +1,29 @@
+Folder PATH listing for volume Windows
+Volume serial number is 0000005D 8A64:DC03
+C:\USERS\KSTEPANOVIC\DESKTOP\CALCULATE_PI_VERSION_III
+|   .gitignore
+|   cal-pi-env.yml
+|   cal-pi-image.sif
+|   cal-pi-recipe.def
+|   README.md
+|   
++---.idea
+|           
+\---src_cal_pi
+    +---opt_cal_pi
+    |   |   calculate_pi.py
+    |   |        
+    \---util
+        |   setup.py
+        |   
+        +---util_min
+        |   |   utils.py
+        |   |   __init__.py
+        |           
+        \---util_min.egg-info
+                dependency_links.txt
+                not-zip-safe
+                PKG-INFO
+                SOURCES.txt
+                top_level.txt
+                
